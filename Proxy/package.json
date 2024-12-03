@@ -1,0 +1,14 @@
+{
+  "name": "Custom-Proxy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "npx ts-node .src/main.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^22.7.9",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {}
+}
